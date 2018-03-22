@@ -18,9 +18,7 @@ namespace HW5
         {
             this.size = size;
             this.K = K;
-            this.mas = mas;   //i'm trying to edit my code_sertyuiopkjhgfd
-
-
+            this.mas = mas;   //i'm trying to edit code 
         }
 
        
