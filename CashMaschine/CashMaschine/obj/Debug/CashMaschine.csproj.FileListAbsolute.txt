@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\CashMaschine\CashMaschine\bin\Debug\CashMaschine.exe.config
+C:\Users\User\Source\Repos\CashMaschine\CashMaschine\bin\Debug\CashMaschine.exe
+C:\Users\User\Source\Repos\CashMaschine\CashMaschine\bin\Debug\CashMaschine.pdb
+C:\Users\User\Source\Repos\CashMaschine\CashMaschine\obj\Debug\CashMaschine.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\CashMaschine\CashMaschine\obj\Debug\CashMaschine.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\CashMaschine\CashMaschine\obj\Debug\CashMaschine.exe
+C:\Users\User\Source\Repos\CashMaschine\CashMaschine\obj\Debug\CashMaschine.pdb
